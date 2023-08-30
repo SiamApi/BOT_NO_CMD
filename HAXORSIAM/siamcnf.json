@@ -1,0 +1,48 @@
+{
+    "language": "bn",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": false,
+    "autoClean": true,
+    "adminOnly": false,
+    "encryptSt": true,
+    "UPTIME": 0,
+    "DASHBOARD": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "SIAM BOT",
+    "PREFIX": "?",
+    "ADMINBOT": [
+        "100054693837086"
+    ],
+    "APPSTATEPATH": "siamfblogin.json",
+    "SETUP_WIN": {
+        "port": 8888,
+        "use": ""
+    },
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "autoMarkDelivery": false,
+        "autoMarkRead": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "version": "1.1.0",
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 500
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 20
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    }
+}
