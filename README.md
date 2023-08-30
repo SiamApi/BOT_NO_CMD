@@ -1,1 +1,1 @@
-# BOT_NO_CMD
+``` BOT_NO_CMD ```
